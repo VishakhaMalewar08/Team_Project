@@ -1,0 +1,73 @@
+.container{
+  background-color: aquamarine;
+  display: block;
+  padding: 30px;
+}
+
+.logo img{
+  background-color: aquamarine;
+}
+.main{
+  display: flex;
+  display: inline-block;
+  width: 34rem;
+}
+.left{
+  float: left;
+  display: inline;
+}
+.right{
+  float: right;
+}
+.left img{
+  height: 3rem;
+}
+li{
+  list-style: none;
+}
+ul{
+  display:block;
+}
+.nav{
+  display: block;
+}
+
+
+/* section1  */
+.first{
+  font-size: 30px;
+}
+h1{
+  font-weight: bold;
+}
+.boldheading{
+  font-weight: bold;
+}
+.big_image{
+ left: 40px;
+}
+.section1{
+  display: flex;
+}
+.leftsection{
+  margin-left: 30px;
+  
+}
+.fa-solid{
+  font-size: 25px;
+      }
+.fa-brands{
+  margin-left: 20px;
+  font-size: 25px;
+}
+.logo2{
+  margin-bottom: 34px;
+}
+.read_later{
+  font-size: 20px;
+  margin-left:65%;
+}
+.print{
+  font-size: 20px;
+  margin-left: 50px;
+}
