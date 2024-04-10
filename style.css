@@ -1,5 +1,5 @@
 .container{
-  background-color: aquamarine;
+  background-color: grey;
   display: block;
   padding: 30px;
 }
@@ -33,7 +33,7 @@ ul{
 }
 
 
-/* section1  */
+/* section1left */
 .first{
   font-size: 30px;
 }
@@ -70,4 +70,10 @@ h1{
 .print{
   font-size: 20px;
   margin-left: 50px;
+}
+/* section1right */
+
+.heading h1{
+  margin-bottom: 30px;
+  color: red;
 }
